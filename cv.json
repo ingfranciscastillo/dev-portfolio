@@ -1,187 +1,216 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Francis Miguel Castillo Cruz",
+    "label": "Desarrollador Full Stack",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "email": "franciscastillocruz@proton.me",
+    "phone": "+1 809-496-1957",
+    "url": "https://francisportfolio.dev/",
+    "summary": "Desarrollador Full Stack con 5 años de experiencia en el desarrollo de aplicaciones web. Especializado en el desarrollo de aplicaciones web utilizando tecnologías como React, Node.js, PostgreSQL, Git, GitHub, HTML, CSS, JavaScript, TypeScript, Tailwind, entre otras.",
+    "theme": "blue",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "Avenida Santa Rosa, 181, La Romana, República Dominicana",
+      "postalCode": "22000",
+      "city": "La Romana",
+      "countryCode": "DO",
+      "region": "República Dominicana"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "ingfranciscastillo",
+        "url": "https://www.linkedin.com/in/ingfranciscastillo/"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "ingfranciscastillo",
+        "url": "https://x.com/ingfranciscastillo"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "ingfranciscastillo",
+        "url": "https://github.com/ingfranciscastillo"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Bufete Jurídico Castillo Melo & Asociados",
+      "position": "Jefe del área de tecnología",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "location": "La Romana, República Dominicana",
+      "url": null,
+      "startDate": "2015-09-07",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Apoyo en procesos legales y documentación en un entorno de bufete.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Gestión de expedientes legales y documentación digital",
+        "Coordinación con clientes para seguimiento de casos",
+        "Soporte en la redacción de contratos y escritos"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Gestión de expedientes legales y organización de documentación digital.",
+        "Apoyo en la redacción de contratos, escritos y documentos jurídicos.",
+        "Coordinación con clientes para seguimiento de casos y reuniones.",
+        "Asistencia al equipo legal en investigaciones y análisis de jurisprudencia."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Implementación de un sistema interno de digitalización de archivos que redujo en un 40% el tiempo de búsqueda de documentos.",
+        "Apoyo en la preparación de casos exitosos para litigios de alto impacto.",
+        "Mejoras en la comunicación entre clientes y abogados mediante reportes claros y estructurados."
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "100ESignature",
+      "position": "Desarrollador Web",
+      "location_type": "On site",
+      "location": "La Romana, República Dominicana",
+      "url": null,
+      "startDate": "2023-09-06",
+      "endDate": null,
+      "summary": "Trabajo en soluciones de firma digital y validación de documentos electrónicos.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Implementación de flujos de firma digital para clientes corporativos",
+        "Soporte en integración con sistemas internos",
+        "Capacitación a usuarios sobre uso de certificados digitales"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Asistencia a clientes corporativos en la implementación de soluciones de firma digital.",
+        "Integración de certificados digitales en plataformas empresariales.",
+        "Resolución de incidencias técnicas relacionadas con procesos de validación electrónica.",
+        "Capacitación a usuarios y equipos internos en el uso de sistemas de firma segura."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Integración exitosa de sistemas de firma digital en más de 15 empresas clientes.",
+        "Reducción en un 30% del tiempo de validación de documentos gracias a procesos optimizados.",
+        "Mejora de la experiencia de usuarios a través de guías técnicas y capacitaciones personalizadas."
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "Evolution Solar System LLC",
+      "position": "Desarrollador Web",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Puerto Rico, Estados Unidos",
+      "url": null,
+      "startDate": "2017-04-12",
+      "endDate": "2018-06-30",
+      "summary": "Desarrollo y mantenimiento de aplicaciones web utilizando JavaScript, HTML, y CSS. Colaborando con el equipo para implementar nuevas funcionalidades y corregir errores.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Diseño e implementación del sitio web con enfoque en branding",
+        "Optimización SEO y performance para mayor visibilidad",
+        "Integración de formulario de contacto y captación de leads"
+      ],
+      "responsibilities": [
+        "Diseño y desarrollo del sitio web con enfoque en branding y usabilidad.",
+        "Optimización SEO y performance del sitio para aumentar visibilidad en motores de búsqueda.",
+        "Integración de formularios de contacto y captación de leads.",
+        "Mantenimiento técnico del hosting y seguridad del sitio."
+      ],
+      "achievements": [
+        "Entrega del sitio web oficial en tiempo récord de 2 meses.",
+        "Mejora del posicionamiento web logrando aparecer en la primera página de Google en búsquedas locales.",
+        "Generación de un flujo constante de leads a través de formularios integrados."
       ],
       "skills": [
         "HTML",
-        "CSS"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "CSS",
+        "JavaScript"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Universidad Dominicana O&M",
+      "url": "https://www.udoym.edu.do/",
+      "area": "Ingeniería en Sistemas Computacionales",
+      "studyType": "Ingeniería",
+      "startDate": "2015-09-14",
+      "endDate": "2020-10-21"
+    },
+    {
+      "institution": "Platzi",
+      "url": "https://platzi.com/",
+      "area": "Desarrollador Frontend",
+      "studyType": "Curso",
+      "startDate": "2021-03-01",
+      "endDate": "2021-07-01",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+        "React JS",
+        "JavaScript Moderno",
+        "TailwindCSS"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "institution": "freeCodeCamp",
+      "url": "https://freecodecamp.org/",
+      "area": "Desarrollador backend",
+      "studyType": "Curso",
+      "startDate": "2022-02-01",
+      "endDate": "2022-06-01",
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
+        "APIs y Microservicios",
+        "Node.js y Express",
+        "Bases de Datos con MongoDB"
       ]
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
+      "institution": "Instituto de Innovación Empresarial",
+      "url": "https://iie.org",
+      "area": "Liderazgo y Gestión Empresarial",
+      "studyType": "Programa Ejecutivo",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-30",
+      "score": "Certificado",
       "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "Liderazgo Estratégico",
+        "Gestión de Equipos de Alto Rendimiento",
+        "Toma de Decisiones en Entornos Complejos"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
+      "name": "Algoritmos y Estructuras de Datos con JavaScript",
+      "date": "2022-06-15",
+      "issuer": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/username/javascript-algorithms-and-data-structures"
+  },
+  {
+      "name": "Carrera de Desarrollo Frontend",
+      "date": "2021-07-20",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/username/frontend-developer"
+  },
+  {
+    "name": "Certificado en Gestión de Proyectos de Google",
+      "date": "2023-02-10",
+      "issuer": "Coursera / Google",
+      "url": "https://coursera.org/verify/google-project-management"
+  },
+  {
+    "name": "Scrum Fundamentals Certified (SFC)",
+      "date": "2023-11-05",
+      "issuer": "SCRUMstudy",
+      "url": "https://www.scrumstudy.com/certification/verify?cert=XXXXXXXX"
+  }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "Astro.js",
+      "level": "Intermediate",
       "keywords": [
-        "Design",
-        "UI"
+        "Web Development",
+        "Frontend",
+        "JavaScript"
       ]
     },
     {
-      "name": "Gitlab",
+      "name": "Express",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "Backend",
+        "Node.js",
+        "JavaScript"
       ]
     },
     {
@@ -242,7 +271,7 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "PostgreSQL",
       "level": "Intermediate",
       "keywords": [
         "Databases",
@@ -294,71 +323,72 @@
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "Inglés",
+      "fluency": "Intermedio"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
+      "name": "Tecnología",
+      "keywords": ["Desarrollo Web", "Inteligencia Artificial", "Ciberseguridad"]
+    },
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "Cine y Series",
+      "keywords": ["Cine de ciencia ficción", "Thrillers psicológicos", "Series documentales"]
+    },
+    {
+      "name": "Videojuegos",
+      "keywords": ["RPG", "Juegos cooperativos online", "Estrategia en tiempo real"]
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Password Generator - Generador de contraseñas seguras y personalizables",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Generador de contraseñas seguras y personalizables. Esta herramienta permite crear contraseñas aleatorias con opciones ajustables como longitud, uso de mayúsculas, minúsculas, números y símbolos, ideal para mejorar la seguridad en cuentas personales o proyectos.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Generador de contraseñas seguras y personalizables",
+        "Creado con React y Tailwind CSS",
+        "Genera contraseñas seguras y personalizables"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://passswordforge.netlify.app/",
+      "github": "https://github.com/ingfranciscastillo/password-generator"
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "AI Test Generator - Generador de Contratos Automáticos con IA",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Una aplicación web construida con Next.js que permite a usuarios autenticados generar tests automáticamente para su código usando inteligencia artificial (Claude API).",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Genera tests automáticamente para su código usando inteligencia artificial (Claude API)",
+        "Creado con Next.js y Tailwind CSS",
+        "Genera tests automáticamente para su código usando inteligencia artificial (Claude API)"
       ],
-      "url": "https://ecommerce.com"
+      "github": "https://github.com/ingfranciscastillo/ai-test-generator"
+    },
+    {
+      "name": "Contract Generator - Generador de Contratos con IA",
+      "isActive": false,
+      "description": "Aplicación web desarrollada con Next.js que permite generar contratos legales personalizados (como arrendamiento, compraventa o NDA) mediante preguntas clave y procesamiento con inteligencia artificial (Claude o GPT-4).",
+      "highlights": [
+        "Genera contratos legales personalizados (como arrendamiento, compraventa o NDA) mediante preguntas clave y procesamiento con inteligencia artificial (Claude o GPT-4)",
+        "Creado con Next.js y Tailwind CSS"
+      ],
+      "github": "https://github.com/ingfranciscastillo/ai-contract-generator"
+    },
+    {
+      "name": "El Yermo Eterno - RPG Post-Apocalíptico",
+      "isActive": true,
+      "description": "Un juego de rol basado en texto desarrollado en Next.js con temática post-apocalíptica. Los jugadores deben sobrevivir en un mundo devastado, combatir criaturas mutantes, gestionar recursos y tomar decisiones que determinarán su destino.",
+      "highlights": [
+        "Juego de rol basado en texto desarrollado en Next.js con temática post-apocalíptica",
+        "Los jugadores deben sobrevivir en un mundo devastado, combatir criaturas mutantes, gestionar recursos y tomar decisiones que determinarán su destino"
+      ],
+      "url": "https://yermo-eterno.netlify.app/",
+      "github": "https://github.com/ingfranciscastillo/postapocalipsis-rpg"
     }
   ]
 }
