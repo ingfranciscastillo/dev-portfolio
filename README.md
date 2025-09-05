@@ -15,15 +15,14 @@ Este es un **fork** del proyecto [dev-portfolio](https://github.com/Smilesharks/
 
 - `src/`: Código fuente de la aplicación
 - `public/`: Archivos estáticos
-- `resume.json`: Datos del CV siguiendo el esquema de JSON Resume
+- `cv.json`: Datos del CV siguiendo el esquema de JSON Resume
 
 ## 🚀 Despliegue
 
 El proyecto está desplegado en **Netlify**. Para ejecutarlo localmente:
 
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
+git clone https://github.com/ingfranciscastillo/dev-portfolio
 cd tu-repositorio
-npm install
-npm run dev
-
+bun install
+bun run dev
