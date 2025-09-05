@@ -370,14 +370,15 @@
       "github": "https://github.com/ingfranciscastillo/ai-test-generator"
     },
     {
-      "name": "Contract Generator - Generador de Contratos con IA",
-      "isActive": false,
-      "description": "Aplicación web desarrollada con Next.js que permite generar contratos legales personalizados (como arrendamiento, compraventa o NDA) mediante preguntas clave y procesamiento con inteligencia artificial (Claude o GPT-4).",
+      "name": "UtiliApp - Aplicación de utilidades",
+      "isActive": true,
+      "description": "UtiliApp es una aplicación de utilidades todo-en-uno que reúne en un solo lugar varias herramientas prácticas y rápidas para el día a día.",
       "highlights": [
-        "Genera contratos legales personalizados (como arrendamiento, compraventa o NDA) mediante preguntas clave y procesamiento con inteligencia artificial (Claude o GPT-4)",
-        "Creado con Next.js y Tailwind CSS"
+        "Aplicación de utilidades todo-en-uno que reúne en un solo lugar varias herramientas prácticas y rápidas para el día a día",
+        "Creado con Nuxt, Nuxt UI, Pinia, Tanstack Vue Query."
       ],
-      "github": "https://github.com/ingfranciscastillo/ai-contract-generator"
+      "url": "https://utiliapp.netlify.app/",
+      "github": "https://github.com/ingfranciscastillo/nuxt-microapps"
     },
     {
       "name": "El Yermo Eterno - RPG Post-Apocalíptico",
