@@ -58,6 +58,10 @@
         "Implementación de un sistema interno de digitalización de archivos que redujo en un 40% el tiempo de búsqueda de documentos.",
         "Apoyo en la preparación de casos exitosos para litigios de alto impacto.",
         "Mejoras en la comunicación entre clientes y abogados mediante reportes claros y estructurados."
+      ],
+      "skills": [
+        "Astro.js",
+        "Ingenieria en Sistemas Computacionales"
       ]
     },
     {
@@ -84,6 +88,11 @@
         "Integración exitosa de sistemas de firma digital en más de 15 empresas clientes.",
         "Reducción en un 30% del tiempo de validación de documentos gracias a procesos optimizados.",
         "Mejora de la experiencia de usuarios a través de guías técnicas y capacitaciones personalizadas."
+      ],
+      "skills": [
+        "React",
+        "Next.js",
+        "TypeScript"
       ]
     },
     {
@@ -112,6 +121,7 @@
         "Generación de un flujo constante de leads a través de formularios integrados."
       ],
       "skills": [
+        "WordPress",
         "HTML",
         "CSS",
         "JavaScript"
@@ -287,16 +297,6 @@
         "Version Control",
         "Collaboration",
         "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
       ]
     },
     {
