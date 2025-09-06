@@ -6,7 +6,7 @@
     "email": "franciscastillocruz@proton.me",
     "phone": "+1 809-496-1957",
     "url": "https://francisportfolio.dev/",
-    "summary": "Desarrollador Full Stack con 5 años de experiencia en el desarrollo de aplicaciones web. Especializado en el desarrollo de aplicaciones web utilizando tecnologías como React, Node.js, PostgreSQL, Git, GitHub, HTML, CSS, JavaScript, TypeScript, Tailwind, entre otras.",
+    "summary": "Desarrollador de software con formación en ingeniería de sistemas y experiencia construyendo aplicaciones web modernas. He trabajado tanto en el frontend (React, TailwindCSS) como en el backend (Node.js, Express, bases de datos relacionales y NoSQL), lo que me permite comprender y aportar valor en todo el ciclo de desarrollo. Mi enfoque está en crear soluciones claras, eficientes y mantenibles, siempre priorizando la experiencia del usuario y la calidad del código.",
     "theme": "blue",
     "location": {
       "address": "Avenida Santa Rosa, 181, La Romana, República Dominicana",
@@ -37,7 +37,7 @@
     {
       "name": "Bufete Jurídico Castillo Melo & Asociados",
       "position": "Jefe del área de tecnología",
-      "location_type": "On site",
+      "location_type": "Presencial",
       "location": "La Romana, República Dominicana",
       "url": null,
       "startDate": "2015-09-07",
@@ -55,19 +55,18 @@
         "Asistencia al equipo legal en investigaciones y análisis de jurisprudencia."
       ],
       "achievements": [
-        "Implementación de un sistema interno de digitalización de archivos que redujo en un 40% el tiempo de búsqueda de documentos.",
-        "Apoyo en la preparación de casos exitosos para litigios de alto impacto.",
         "Mejoras en la comunicación entre clientes y abogados mediante reportes claros y estructurados."
       ],
       "skills": [
-        "Astro.js",
-        "Ingenieria en Sistemas Computacionales"
+        "Ingenieria en Sistemas Computacionales",
+        "Soporte Técnico",
+        "Redacción de Documentos Jurídicos"
       ]
     },
     {
       "name": "100ESignature",
       "position": "Desarrollador Web",
-      "location_type": "On site",
+      "location_type": "Remoto",
       "location": "La Romana, República Dominicana",
       "url": null,
       "startDate": "2023-09-06",
@@ -75,7 +74,6 @@
       "summary": "Trabajo en soluciones de firma digital y validación de documentos electrónicos.",
       "highlights": [
         "Implementación de flujos de firma digital para clientes corporativos",
-        "Soporte en integración con sistemas internos",
         "Capacitación a usuarios sobre uso de certificados digitales"
       ],
       "responsibilities": [
@@ -85,8 +83,7 @@
         "Capacitación a usuarios y equipos internos en el uso de sistemas de firma segura."
       ],
       "achievements": [
-        "Integración exitosa de sistemas de firma digital en más de 15 empresas clientes.",
-        "Reducción en un 30% del tiempo de validación de documentos gracias a procesos optimizados.",
+        "Integración exitosa de sistemas de firma digital",
         "Mejora de la experiencia de usuarios a través de guías técnicas y capacitaciones personalizadas."
       ],
       "skills": [
@@ -98,7 +95,7 @@
     {
       "name": "Evolution Solar System LLC",
       "position": "Desarrollador Web",
-      "location_type": "Remote",
+      "location_type": "Remoto",
       "location": "Puerto Rico, Estados Unidos",
       "url": null,
       "startDate": "2017-04-12",
@@ -117,7 +114,7 @@
       ],
       "achievements": [
         "Entrega del sitio web oficial en tiempo récord de 2 meses.",
-        "Mejora del posicionamiento web logrando aparecer en la primera página de Google en búsquedas locales.",
+        "Mejora del posicionamiento web.",
         "Generación de un flujo constante de leads a través de formularios integrados."
       ],
       "skills": [
@@ -133,9 +130,36 @@
       "institution": "Universidad Dominicana O&M",
       "url": "https://www.udoym.edu.do/",
       "area": "Ingeniería en Sistemas Computacionales",
-      "studyType": "Ingeniería",
+      "studyType": "Universidad",
       "startDate": "2015-09-14",
       "endDate": "2020-10-21"
+    },
+    {
+      "institution": "Visual Studio Code for Education (Microsoft)",
+      "url": "https://vscodeedu.com/courses/intro-to-web-dev",
+      "area": "Introducción al Desarrollo Web",
+      "studyType": "Curso Online gratuito",
+      "startDate": "2022-12-02",
+      "endDate": "2022-12-04",
+      "courses": [
+        "HTML básico",
+        "CSS para estilo",
+        "JavaScript dinámico",
+        "Pensamiento de diseño y proyectos prácticos"
+      ]
+    },
+    {
+      "institution": "Visual Studio Code for Education (Microsoft)",
+      "url": "https://vscodeedu.com/courses/intro-to-python",
+      "area": "Introducción a Python",
+      "studyType": "Curso Online gratuito",
+      "startDate": "2022-12-04",
+      "endDate": "2022-12-07",
+      "courses": [
+        "Sintaxis de Python",
+        "Estructuras de control (if, for)",
+        "Funciones y estructuras de datos"
+      ]
     },
     {
       "institution": "Platzi",
@@ -162,46 +186,28 @@
         "Node.js y Express",
         "Bases de Datos con MongoDB"
       ]
-    },
-    {
-      "institution": "Instituto de Innovación Empresarial",
-      "url": "https://iie.org",
-      "area": "Liderazgo y Gestión Empresarial",
-      "studyType": "Programa Ejecutivo",
-      "startDate": "2023-05-01",
-      "endDate": "2023-08-30",
-      "score": "Certificado",
-      "courses": [
-        "Liderazgo Estratégico",
-        "Gestión de Equipos de Alto Rendimiento",
-        "Toma de Decisiones en Entornos Complejos"
-      ]
     }
   ],
   "certificates": [
     {
       "name": "Algoritmos y Estructuras de Datos con JavaScript",
       "date": "2022-06-15",
-      "issuer": "freeCodeCamp",
-      "url": "https://www.freecodecamp.org/certification/username/javascript-algorithms-and-data-structures"
+      "issuer": "freeCodeCamp"
   },
   {
       "name": "Carrera de Desarrollo Frontend",
       "date": "2021-07-20",
-      "issuer": "Platzi",
-      "url": "https://platzi.com/p/username/frontend-developer"
+      "issuer": "Platzi"
   },
   {
     "name": "Certificado en Gestión de Proyectos de Google",
       "date": "2023-02-10",
-      "issuer": "Coursera / Google",
-      "url": "https://coursera.org/verify/google-project-management"
+      "issuer": "Coursera / Google"
   },
   {
-    "name": "Scrum Fundamentals Certified (SFC)",
-      "date": "2023-11-05",
-      "issuer": "SCRUMstudy",
-      "url": "https://www.scrumstudy.com/certification/verify?cert=XXXXXXXX"
+      "name": "Google IT Support Professional Certificate",
+      "date": "2022-09-01",
+      "issuer": "Coursera / Google"
   }
   ],
   "skills": [
@@ -372,7 +378,7 @@
     {
       "name": "UtiliApp - Aplicación de utilidades",
       "isActive": true,
-      "description": "UtiliApp es una aplicación de utilidades todo-en-uno que reúne en un solo lugar varias herramientas prácticas y rápidas para el día a día.",
+      "description": "UtiliApp es una aplicación de utilidades todo-en-uno que reúne en un solo lugar varias herramientas prácticas y rápidas para el día a día. Realiza conversiones de unidades, calcula el precio de productos, genera contraseñas seguras y más.",
       "highlights": [
         "Aplicación de utilidades todo-en-uno que reúne en un solo lugar varias herramientas prácticas y rápidas para el día a día",
         "Creado con Nuxt, Nuxt UI, Pinia, Tanstack Vue Query."
